@@ -1,0 +1,501 @@
+Genetic Evolution - Generation Statistics
+GENERATION: 0 Statistics:
+Avg. fitness: 13426.67
+Worst fitness: 1223.6666 Worst_Best: 6670.0 Worst_Worst: 170.0
+Best fitness: 18966.334 Best_Best: 41570.0 Best_Worst: 8020.0
+
+GENERATION: 1 Statistics:
+Avg. fitness: 14591.791
+Worst fitness: 880.6667 Worst_Best: 1540.0 Worst_Worst: 630.0
+Best fitness: 23563.0 Best_Best: 46920.0 Best_Worst: 7860.0
+
+GENERATION: 2 Statistics:
+Avg. fitness: 15776.923
+Worst fitness: 11293.0 Worst_Best: 27630.0 Worst_Worst: 4080.0
+Best fitness: 20858.666 Best_Best: 49990.0 Best_Worst: 3130.0
+
+GENERATION: 3 Statistics:
+Avg. fitness: 16984.398
+Worst fitness: 7060.6665 Worst_Best: 19940.0 Worst_Worst: 2950.0
+Best fitness: 23564.0 Best_Best: 66110.0 Best_Worst: 6960.0
+
+GENERATION: 4 Statistics:
+Avg. fitness: 17631.371
+Worst fitness: 9807.0 Worst_Best: 20810.0 Worst_Worst: 4030.0
+Best fitness: 24378.334 Best_Best: 45370.0 Best_Worst: 8660.0
+
+GENERATION: 5 Statistics:
+Avg. fitness: 18978.63
+Worst fitness: 13812.0 Worst_Best: 31360.0 Worst_Worst: 3980.0
+Best fitness: 23790.334 Best_Best: 47180.0 Best_Worst: 5180.0
+
+GENERATION: 6 Statistics:
+Avg. fitness: 19227.98
+Worst fitness: 12372.0 Worst_Best: 25160.0 Worst_Worst: 4220.0
+Best fitness: 25197.334 Best_Best: 47100.0 Best_Worst: 5970.0
+
+GENERATION: 7 Statistics:
+Avg. fitness: 19516.244
+Worst fitness: 9427.333 Worst_Best: 19070.0 Worst_Worst: 1460.0
+Best fitness: 25774.0 Best_Best: 49260.0 Best_Worst: 8240.0
+
+GENERATION: 8 Statistics:
+Avg. fitness: 20212.576
+Worst fitness: 15616.0 Worst_Best: 27660.0 Worst_Worst: 4710.0
+Best fitness: 26441.666 Best_Best: 90970.0 Best_Worst: 10190.0
+
+GENERATION: 9 Statistics:
+Avg. fitness: 20229.145
+Worst fitness: 10347.333 Worst_Best: 22340.0 Worst_Worst: 3640.0
+Best fitness: 26011.666 Best_Best: 47910.0 Best_Worst: 9450.0
+
+GENERATION: 10 Statistics:
+Avg. fitness: 20790.363
+Worst fitness: 9724.0 Worst_Best: 20270.0 Worst_Worst: 3800.0
+Best fitness: 24915.0 Best_Best: 49070.0 Best_Worst: 6080.0
+
+GENERATION: 11 Statistics:
+Avg. fitness: 20777.93
+Worst fitness: 10919.333 Worst_Best: 20760.0 Worst_Worst: 3000.0
+Best fitness: 26551.666 Best_Best: 58100.0 Best_Worst: 8570.0
+
+GENERATION: 12 Statistics:
+Avg. fitness: 20627.162
+Worst fitness: 15470.0 Worst_Best: 30300.0 Worst_Worst: 4960.0
+Best fitness: 26531.666 Best_Best: 49300.0 Best_Worst: 9070.0
+
+GENERATION: 13 Statistics:
+Avg. fitness: 20928.957
+Worst fitness: 15157.333 Worst_Best: 32710.0 Worst_Worst: 5900.0
+Best fitness: 26332.0 Best_Best: 58930.0 Best_Worst: 7750.0
+
+GENERATION: 14 Statistics:
+Avg. fitness: 20620.936
+Worst fitness: 7605.3335 Worst_Best: 15950.0 Worst_Worst: 1290.0
+Best fitness: 25830.0 Best_Best: 53980.0 Best_Worst: 8810.0
+
+GENERATION: 15 Statistics:
+Avg. fitness: 21236.32
+Worst fitness: 15496.0 Worst_Best: 23510.0 Worst_Worst: 3440.0
+Best fitness: 25014.334 Best_Best: 53610.0 Best_Worst: 3170.0
+
+GENERATION: 16 Statistics:
+Avg. fitness: 20936.121
+Worst fitness: 15224.667 Worst_Best: 40880.0 Worst_Worst: 5350.0
+Best fitness: 26827.334 Best_Best: 49660.0 Best_Worst: 7640.0
+
+GENERATION: 17 Statistics:
+Avg. fitness: 20743.98
+Worst fitness: 10657.0 Worst_Best: 21420.0 Worst_Worst: 3400.0
+Best fitness: 26246.666 Best_Best: 57360.0 Best_Worst: 6810.0
+
+GENERATION: 18 Statistics:
+Avg. fitness: 20977.82
+Worst fitness: 4105.6665 Worst_Best: 11890.0 Worst_Worst: 530.0
+Best fitness: 25650.334 Best_Best: 53850.0 Best_Worst: 9180.0
+
+GENERATION: 19 Statistics:
+Avg. fitness: 20768.002
+Worst fitness: 12507.333 Worst_Best: 22160.0 Worst_Worst: 3290.0
+Best fitness: 26311.334 Best_Best: 50890.0 Best_Worst: 6410.0
+
+GENERATION: 20 Statistics:
+Avg. fitness: 20880.895
+Worst fitness: 10235.333 Worst_Best: 24180.0 Worst_Worst: 3800.0
+Best fitness: 27465.0 Best_Best: 72370.0 Best_Worst: 4960.0
+
+GENERATION: 21 Statistics:
+Avg. fitness: 20272.836
+Worst fitness: 10731.333 Worst_Best: 19940.0 Worst_Worst: 3800.0
+Best fitness: 25896.0 Best_Best: 53360.0 Best_Worst: 13800.0
+
+GENERATION: 22 Statistics:
+Avg. fitness: 21027.43
+Worst fitness: 12357.333 Worst_Best: 23440.0 Worst_Worst: 4460.0
+Best fitness: 26958.666 Best_Best: 46590.0 Best_Worst: 8460.0
+
+GENERATION: 23 Statistics:
+Avg. fitness: 21021.195
+Worst fitness: 15909.667 Worst_Best: 40750.0 Worst_Worst: 4010.0
+Best fitness: 25799.666 Best_Best: 50440.0 Best_Worst: 9210.0
+
+GENERATION: 24 Statistics:
+Avg. fitness: 20943.945
+Worst fitness: 15735.333 Worst_Best: 30720.0 Worst_Worst: 2600.0
+Best fitness: 26062.0 Best_Best: 48400.0 Best_Worst: 11030.0
+
+GENERATION: 25 Statistics:
+Avg. fitness: 20956.363
+Worst fitness: 15722.0 Worst_Best: 29570.0 Worst_Worst: 3180.0
+Best fitness: 25012.334 Best_Best: 56100.0 Best_Worst: 5110.0
+
+GENERATION: 26 Statistics:
+Avg. fitness: 21412.902
+Worst fitness: 15007.0 Worst_Best: 32270.0 Worst_Worst: 3420.0
+Best fitness: 25728.666 Best_Best: 63840.0 Best_Worst: 5700.0
+
+GENERATION: 27 Statistics:
+Avg. fitness: 20700.344
+Worst fitness: 11432.667 Worst_Best: 29290.0 Worst_Worst: 2430.0
+Best fitness: 26241.334 Best_Best: 64970.0 Best_Worst: 6760.0
+
+GENERATION: 28 Statistics:
+Avg. fitness: 20845.988
+Worst fitness: 12526.333 Worst_Best: 21680.0 Worst_Worst: 4200.0
+Best fitness: 25414.334 Best_Best: 58230.0 Best_Worst: 2350.0
+
+GENERATION: 29 Statistics:
+Avg. fitness: 21378.465
+Worst fitness: 15334.0 Worst_Best: 27990.0 Worst_Worst: 4190.0
+Best fitness: 29745.334 Best_Best: 80190.0 Best_Worst: 9430.0
+
+GENERATION: 30 Statistics:
+Avg. fitness: 21010.592
+Worst fitness: 16223.0 Worst_Best: 35810.0 Worst_Worst: 3610.0
+Best fitness: 28525.334 Best_Best: 73700.0 Best_Worst: 11120.0
+
+GENERATION: 31 Statistics:
+Avg. fitness: 20854.21
+Worst fitness: 12529.333 Worst_Best: 22050.0 Worst_Worst: 3230.0
+Best fitness: 26501.334 Best_Best: 44900.0 Best_Worst: 7120.0
+
+GENERATION: 32 Statistics:
+Avg. fitness: 20962.45
+Worst fitness: 11739.333 Worst_Best: 20640.0 Worst_Worst: 5030.0
+Best fitness: 25989.0 Best_Best: 49000.0 Best_Worst: 8120.0
+
+GENERATION: 33 Statistics:
+Avg. fitness: 20919.207
+Worst fitness: 15198.667 Worst_Best: 31020.0 Worst_Worst: 3950.0
+Best fitness: 24743.0 Best_Best: 46480.0 Best_Worst: 5630.0
+
+GENERATION: 34 Statistics:
+Avg. fitness: 21294.47
+Worst fitness: 16620.0 Worst_Best: 32320.0 Worst_Worst: 5580.0
+Best fitness: 25490.666 Best_Best: 56280.0 Best_Worst: 5440.0
+
+GENERATION: 35 Statistics:
+Avg. fitness: 21017.814
+Worst fitness: 10762.333 Worst_Best: 26620.0 Worst_Worst: 3190.0
+Best fitness: 26710.0 Best_Best: 54920.0 Best_Worst: 5130.0
+
+GENERATION: 36 Statistics:
+Avg. fitness: 21209.463
+Worst fitness: 17200.666 Worst_Best: 37270.0 Worst_Worst: 7030.0
+Best fitness: 25908.0 Best_Best: 55040.0 Best_Worst: 6410.0
+
+GENERATION: 37 Statistics:
+Avg. fitness: 21422.0
+Worst fitness: 16623.334 Worst_Best: 32750.0 Worst_Worst: 5340.0
+Best fitness: 25627.0 Best_Best: 40720.0 Best_Worst: 6260.0
+
+GENERATION: 38 Statistics:
+Avg. fitness: 21245.928
+Worst fitness: 16818.0 Worst_Best: 34760.0 Worst_Worst: 4930.0
+Best fitness: 24673.334 Best_Best: 49850.0 Best_Worst: 4220.0
+
+GENERATION: 39 Statistics:
+Avg. fitness: 21482.898
+Worst fitness: 16409.334 Worst_Best: 43140.0 Worst_Worst: 5060.0
+Best fitness: 28095.666 Best_Best: 50490.0 Best_Worst: 2390.0
+
+GENERATION: 40 Statistics:
+Avg. fitness: 20872.95
+Worst fitness: 11097.333 Worst_Best: 24930.0 Worst_Worst: 3150.0
+Best fitness: 27037.666 Best_Best: 57450.0 Best_Worst: 7090.0
+
+GENERATION: 41 Statistics:
+Avg. fitness: 21061.53
+Worst fitness: 14868.333 Worst_Best: 32100.0 Worst_Worst: 3750.0
+Best fitness: 26741.666 Best_Best: 47050.0 Best_Worst: 8030.0
+
+GENERATION: 42 Statistics:
+Avg. fitness: 21272.387
+Worst fitness: 15767.0 Worst_Best: 50410.0 Worst_Worst: 1610.0
+Best fitness: 25203.0 Best_Best: 45390.0 Best_Worst: 8310.0
+
+GENERATION: 43 Statistics:
+Avg. fitness: 20713.049
+Worst fitness: 13672.0 Worst_Best: 23920.0 Worst_Worst: 3860.0
+Best fitness: 25458.334 Best_Best: 56730.0 Best_Worst: 9430.0
+
+GENERATION: 44 Statistics:
+Avg. fitness: 21455.256
+Worst fitness: 17267.666 Worst_Best: 36140.0 Worst_Worst: 5150.0
+Best fitness: 26037.0 Best_Best: 57830.0 Best_Worst: 9180.0
+
+GENERATION: 45 Statistics:
+Avg. fitness: 21423.605
+Worst fitness: 17320.666 Worst_Best: 34820.0 Worst_Worst: 4580.0
+Best fitness: 25955.666 Best_Best: 51850.0 Best_Worst: 9990.0
+
+GENERATION: 46 Statistics:
+Avg. fitness: 21246.75
+Worst fitness: 14454.0 Worst_Best: 25450.0 Worst_Worst: 5430.0
+Best fitness: 25125.334 Best_Best: 40850.0 Best_Worst: 8830.0
+
+GENERATION: 47 Statistics:
+Avg. fitness: 21103.72
+Worst fitness: 13606.0 Worst_Best: 22290.0 Worst_Worst: 5790.0
+Best fitness: 25448.334 Best_Best: 61360.0 Best_Worst: 4390.0
+
+GENERATION: 48 Statistics:
+Avg. fitness: 21883.002
+Worst fitness: 17283.666 Worst_Best: 35830.0 Worst_Worst: 3790.0
+Best fitness: 26542.666 Best_Best: 69920.0 Best_Worst: 9560.0
+
+GENERATION: 49 Statistics:
+Avg. fitness: 21623.256
+Worst fitness: 17009.666 Worst_Best: 30090.0 Worst_Worst: 3400.0
+Best fitness: 25852.666 Best_Best: 58100.0 Best_Worst: 6340.0
+
+GENERATION: 50 Statistics:
+Avg. fitness: 21861.758
+Worst fitness: 17410.0 Worst_Best: 33800.0 Worst_Worst: 2330.0
+Best fitness: 27587.334 Best_Best: 45270.0 Best_Worst: 6940.0
+
+GENERATION: 51 Statistics:
+Avg. fitness: 21269.26
+Worst fitness: 10432.667 Worst_Best: 20750.0 Worst_Worst: 3740.0
+Best fitness: 27911.334 Best_Best: 55100.0 Best_Worst: 4540.0
+
+GENERATION: 52 Statistics:
+Avg. fitness: 21740.178
+Worst fitness: 16716.666 Worst_Best: 40490.0 Worst_Worst: 3770.0
+Best fitness: 26715.666 Best_Best: 54570.0 Best_Worst: 12330.0
+
+GENERATION: 53 Statistics:
+Avg. fitness: 21814.357
+Worst fitness: 16267.0 Worst_Best: 36730.0 Worst_Worst: 4680.0
+Best fitness: 27027.0 Best_Best: 56800.0 Best_Worst: 9480.0
+
+GENERATION: 54 Statistics:
+Avg. fitness: 21453.078
+Worst fitness: 10604.0 Worst_Best: 20650.0 Worst_Worst: 3100.0
+Best fitness: 28163.0 Best_Best: 51690.0 Best_Worst: 8740.0
+
+GENERATION: 55 Statistics:
+Avg. fitness: 21847.25
+Worst fitness: 16044.333 Worst_Best: 37870.0 Worst_Worst: 6300.0
+Best fitness: 26494.0 Best_Best: 51420.0 Best_Worst: 3230.0
+
+GENERATION: 56 Statistics:
+Avg. fitness: 21729.215
+Worst fitness: 16540.0 Worst_Best: 29390.0 Worst_Worst: 6850.0
+Best fitness: 26959.334 Best_Best: 50370.0 Best_Worst: 6700.0
+
+GENERATION: 57 Statistics:
+Avg. fitness: 21667.926
+Worst fitness: 17313.666 Worst_Best: 38950.0 Worst_Worst: 6190.0
+Best fitness: 25803.334 Best_Best: 59080.0 Best_Worst: 1900.0
+
+GENERATION: 58 Statistics:
+Avg. fitness: 21532.756
+Worst fitness: 12373.333 Worst_Best: 22460.0 Worst_Worst: 3230.0
+Best fitness: 26468.666 Best_Best: 55520.0 Best_Worst: 5870.0
+
+GENERATION: 59 Statistics:
+Avg. fitness: 21593.385
+Worst fitness: 17378.666 Worst_Best: 45220.0 Worst_Worst: 3690.0
+Best fitness: 25992.666 Best_Best: 51800.0 Best_Worst: 3810.0
+
+GENERATION: 60 Statistics:
+Avg. fitness: 21283.143
+Worst fitness: 13636.667 Worst_Best: 24460.0 Worst_Worst: 3340.0
+Best fitness: 27082.334 Best_Best: 65220.0 Best_Worst: 6480.0
+
+GENERATION: 61 Statistics:
+Avg. fitness: 21577.84
+Worst fitness: 14662.0 Worst_Best: 34390.0 Worst_Worst: 4780.0
+Best fitness: 26357.666 Best_Best: 93050.0 Best_Worst: 5110.0
+
+GENERATION: 62 Statistics:
+Avg. fitness: 21631.664
+Worst fitness: 13800.0 Worst_Best: 31140.0 Worst_Worst: 3880.0
+Best fitness: 26551.666 Best_Best: 54850.0 Best_Worst: 4520.0
+
+GENERATION: 63 Statistics:
+Avg. fitness: 21411.223
+Worst fitness: 16788.666 Worst_Best: 29980.0 Worst_Worst: 4440.0
+Best fitness: 26703.666 Best_Best: 42930.0 Best_Worst: 8110.0
+
+GENERATION: 64 Statistics:
+Avg. fitness: 21777.234
+Worst fitness: 13651.0 Worst_Best: 34530.0 Worst_Worst: 3030.0
+Best fitness: 27252.334 Best_Best: 54480.0 Best_Worst: 9090.0
+
+GENERATION: 65 Statistics:
+Avg. fitness: 21449.938
+Worst fitness: 13031.0 Worst_Best: 24670.0 Worst_Worst: 5380.0
+Best fitness: 26945.334 Best_Best: 59490.0 Best_Worst: 5060.0
+
+GENERATION: 66 Statistics:
+Avg. fitness: 21507.115
+Worst fitness: 16189.667 Worst_Best: 39910.0 Worst_Worst: 3780.0
+Best fitness: 26210.666 Best_Best: 57800.0 Best_Worst: 6630.0
+
+GENERATION: 67 Statistics:
+Avg. fitness: 21958.357
+Worst fitness: 18273.0 Worst_Best: 34510.0 Worst_Worst: 7000.0
+Best fitness: 26764.666 Best_Best: 55410.0 Best_Worst: 7040.0
+
+GENERATION: 68 Statistics:
+Avg. fitness: 21504.984
+Worst fitness: 17295.0 Worst_Best: 50070.0 Worst_Worst: 5830.0
+Best fitness: 25835.666 Best_Best: 57110.0 Best_Worst: 8160.0
+
+GENERATION: 69 Statistics:
+Avg. fitness: 21790.71
+Worst fitness: 17075.0 Worst_Best: 42380.0 Worst_Worst: 4820.0
+Best fitness: 25370.334 Best_Best: 53510.0 Best_Worst: 7460.0
+
+GENERATION: 70 Statistics:
+Avg. fitness: 21920.977
+Worst fitness: 15580.0 Worst_Best: 34780.0 Worst_Worst: 1530.0
+Best fitness: 25870.666 Best_Best: 41770.0 Best_Worst: 6400.0
+
+GENERATION: 71 Statistics:
+Avg. fitness: 21897.875
+Worst fitness: 16194.667 Worst_Best: 33630.0 Worst_Worst: 5880.0
+Best fitness: 26761.666 Best_Best: 65620.0 Best_Worst: 8680.0
+
+GENERATION: 72 Statistics:
+Avg. fitness: 21789.13
+Worst fitness: 17224.666 Worst_Best: 40900.0 Worst_Worst: 3750.0
+Best fitness: 26831.0 Best_Best: 49300.0 Best_Worst: 7090.0
+
+GENERATION: 73 Statistics:
+Avg. fitness: 21865.072
+Worst fitness: 14275.333 Worst_Best: 23810.0 Worst_Worst: 3280.0
+Best fitness: 27360.0 Best_Best: 55570.0 Best_Worst: 8740.0
+
+GENERATION: 74 Statistics:
+Avg. fitness: 21484.395
+Worst fitness: 11814.667 Worst_Best: 22330.0 Worst_Worst: 5800.0
+Best fitness: 27420.666 Best_Best: 66820.0 Best_Worst: 7560.0
+
+GENERATION: 75 Statistics:
+Avg. fitness: 21570.682
+Worst fitness: 11802.333 Worst_Best: 21720.0 Worst_Worst: 3780.0
+Best fitness: 25880.0 Best_Best: 48790.0 Best_Worst: 11110.0
+
+GENERATION: 76 Statistics:
+Avg. fitness: 21877.72
+Worst fitness: 17227.0 Worst_Best: 28270.0 Worst_Worst: 5470.0
+Best fitness: 27251.666 Best_Best: 75700.0 Best_Worst: 7190.0
+
+GENERATION: 77 Statistics:
+Avg. fitness: 21737.027
+Worst fitness: 12652.0 Worst_Best: 30360.0 Worst_Worst: 4570.0
+Best fitness: 26112.334 Best_Best: 57080.0 Best_Worst: 12100.0
+
+GENERATION: 78 Statistics:
+Avg. fitness: 21768.5
+Worst fitness: 16722.666 Worst_Best: 27960.0 Worst_Worst: 6210.0
+Best fitness: 26187.334 Best_Best: 45080.0 Best_Worst: 7020.0
+
+GENERATION: 79 Statistics:
+Avg. fitness: 21394.045
+Worst fitness: 14271.0 Worst_Best: 27120.0 Worst_Worst: 5110.0
+Best fitness: 26734.0 Best_Best: 48280.0 Best_Worst: 6110.0
+
+GENERATION: 80 Statistics:
+Avg. fitness: 22000.01
+Worst fitness: 16154.333 Worst_Best: 32810.0 Worst_Worst: 5060.0
+Best fitness: 26935.0 Best_Best: 53950.0 Best_Worst: 9370.0
+
+GENERATION: 81 Statistics:
+Avg. fitness: 21960.543
+Worst fitness: 18427.666 Worst_Best: 49590.0 Worst_Worst: 5570.0
+Best fitness: 25406.666 Best_Best: 64850.0 Best_Worst: 8770.0
+
+GENERATION: 82 Statistics:
+Avg. fitness: 22097.775
+Worst fitness: 16514.666 Worst_Best: 32450.0 Worst_Worst: 4660.0
+Best fitness: 26385.0 Best_Best: 51700.0 Best_Worst: 6230.0
+
+GENERATION: 83 Statistics:
+Avg. fitness: 22171.867
+Worst fitness: 17219.666 Worst_Best: 51230.0 Worst_Worst: 2050.0
+Best fitness: 27933.334 Best_Best: 63500.0 Best_Worst: 7490.0
+
+GENERATION: 84 Statistics:
+Avg. fitness: 21930.717
+Worst fitness: 14452.333 Worst_Best: 30590.0 Worst_Worst: 5230.0
+Best fitness: 26927.334 Best_Best: 64480.0 Best_Worst: 4790.0
+
+GENERATION: 85 Statistics:
+Avg. fitness: 21928.17
+Worst fitness: 13596.333 Worst_Best: 24940.0 Worst_Worst: 3770.0
+Best fitness: 26210.334 Best_Best: 51220.0 Best_Worst: 7540.0
+
+GENERATION: 86 Statistics:
+Avg. fitness: 22016.11
+Worst fitness: 18054.334 Worst_Best: 47250.0 Worst_Worst: 5540.0
+Best fitness: 26720.0 Best_Best: 51070.0 Best_Worst: 8700.0
+
+GENERATION: 87 Statistics:
+Avg. fitness: 22099.273
+Worst fitness: 17910.334 Worst_Best: 39020.0 Worst_Worst: 6570.0
+Best fitness: 27973.666 Best_Best: 60720.0 Best_Worst: 15660.0
+
+GENERATION: 88 Statistics:
+Avg. fitness: 22050.256
+Worst fitness: 17700.0 Worst_Best: 38350.0 Worst_Worst: 4950.0
+Best fitness: 26769.0 Best_Best: 54140.0 Best_Worst: 5380.0
+
+GENERATION: 89 Statistics:
+Avg. fitness: 22040.068
+Worst fitness: 18175.0 Worst_Best: 31550.0 Worst_Worst: 7110.0
+Best fitness: 26182.666 Best_Best: 52530.0 Best_Worst: 8660.0
+
+GENERATION: 90 Statistics:
+Avg. fitness: 21316.875
+Worst fitness: 12616.333 Worst_Best: 21270.0 Worst_Worst: 3890.0
+Best fitness: 25864.334 Best_Best: 49180.0 Best_Worst: 5610.0
+
+GENERATION: 91 Statistics:
+Avg. fitness: 21997.2
+Worst fitness: 14370.333 Worst_Best: 31120.0 Worst_Worst: 4240.0
+Best fitness: 26211.666 Best_Best: 49400.0 Best_Worst: 8050.0
+
+GENERATION: 92 Statistics:
+Avg. fitness: 21982.09
+Worst fitness: 15689.0 Worst_Best: 44820.0 Worst_Worst: 5560.0
+Best fitness: 26423.334 Best_Best: 47610.0 Best_Worst: 6530.0
+
+GENERATION: 93 Statistics:
+Avg. fitness: 21731.363
+Worst fitness: 16825.666 Worst_Best: 27900.0 Worst_Worst: 5460.0
+Best fitness: 27188.334 Best_Best: 53990.0 Best_Worst: 7140.0
+
+GENERATION: 94 Statistics:
+Avg. fitness: 22144.404
+Worst fitness: 16822.334 Worst_Best: 28480.0 Worst_Worst: 5370.0
+Best fitness: 26406.0 Best_Best: 102130.0 Best_Worst: 6230.0
+
+GENERATION: 95 Statistics:
+Avg. fitness: 21785.744
+Worst fitness: 12664.0 Worst_Best: 23660.0 Worst_Worst: 2870.0
+Best fitness: 26296.334 Best_Best: 63610.0 Best_Worst: 9320.0
+
+GENERATION: 96 Statistics:
+Avg. fitness: 21221.818
+Worst fitness: 11317.333 Worst_Best: 21300.0 Worst_Worst: 3870.0
+Best fitness: 25465.334 Best_Best: 53140.0 Best_Worst: 5520.0
+
+GENERATION: 97 Statistics:
+Avg. fitness: 21322.74
+Worst fitness: 12250.667 Worst_Best: 20470.0 Worst_Worst: 3710.0
+Best fitness: 26990.334 Best_Best: 50990.0 Best_Worst: 5850.0
+
+GENERATION: 98 Statistics:
+Avg. fitness: 22047.35
+Worst fitness: 15948.333 Worst_Best: 29380.0 Worst_Worst: 7860.0
+Best fitness: 29376.334 Best_Best: 57280.0 Best_Worst: 4350.0
+
+GENERATION: 99 Statistics:
+Avg. fitness: 22129.857
+Worst fitness: 17013.666 Worst_Best: 32880.0 Worst_Worst: 2950.0
+Best fitness: 28468.666 Best_Best: 63940.0 Best_Worst: 7480.0
+
